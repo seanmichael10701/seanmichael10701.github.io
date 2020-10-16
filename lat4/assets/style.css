@@ -1,0 +1,581 @@
+* {
+	margin-right: 1em;
+	margin-left: 1em;
+	padding: 0;
+}
+
+.floatleft{
+	float: left; 
+	width: 45%;
+}
+.nav{
+	padding: 1em;
+	font-family: Libertinus Sans;
+	text-align: left;
+	font-size: 1.5em;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 0.75em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+.title{
+	font-family: Baskerville BT;
+	font-weight: bold;
+	font-size: 5.96em;
+	text-align: center;
+}
+.title2{
+	font-family: Baskerville BT;
+	font-weight: bold;
+	font-size: 5.96em;
+	text-align: center;
+	margin-top: 1em;
+}
+
+.subtitle{
+	font-family: Baskerville BT;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 2.441em;
+	text-align: center;
+	padding-bottom: 1em;
+}
+
+.halfdeck{
+	font-family: Libertinus Sans;
+	font-weight: bold;
+	font-size: 1.563em; 
+	border-right: 1pt solid black;
+	padding-right: 1.5em;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	margin-bottom: 1em;
+	float: left; 
+	width: 45%;
+}
+
+.half{
+	font-family: Baskerville BT;
+	font-style: italic;
+	font-size: 1.563em;
+	padding-top: 1.5em;
+	padding-bottom: 2em;
+	color: #555555;
+	float: right;
+	width: 45%
+}
+
+.half2{
+	font-family: Baskerville BT;
+	font-style: italic;
+	font-size: 1.25em;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+	color: #555555;
+}
+
+.half3{
+	font-family: Baskerville BT;
+	font-style: italic;
+	font-size: 1.563em;
+	padding-top: 1.5em;
+	padding-bottom: 2em;
+	color: #555555;
+	float: right; 
+	width: 45%;
+	padding-top: 2.5em;
+}
+
+.half4{
+	font-family: Baskerville BT;
+	font-style: italic;
+	font-size: 1.25em;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+	color: #555555;
+	border-bottom: 1pt solid black;
+	border-top: 1pt solid black;
+	margin-top: 2.275em;
+}
+
+.halfheadline{
+	font-family: Baskerville BT;
+	font-weight: bold;
+	font-size: 1.563em;
+	padding-top: 1em;
+	margin-left: 0.7em
+}
+
+.halfheadline2{
+	font-family: Baskerville BT;
+	font-weight: bold;
+	font-size: 1.563em;
+	padding-top: 1em;
+}
+
+.bodyleft{
+	font-family: Libertinus Sans;
+	font-size: 1em;
+	padding-left: 0.5em;
+	width: 100%;
+	color: #526062;
+	padding-top: 1em;
+}
+
+.bodyleft2{
+	font-family: Libertinus Sans;
+	font-size: 1em;
+	padding-left: 0.5em;
+	width: 100%;
+	padding-top: 1em;
+	padding-bottom: 1.5em;
+	border-bottom: 1pt solid black; 
+	color: #526062;
+}
+
+.bodyleft3{
+	font-family: Libertinus Sans;
+	font-size: 1em;
+	padding-left: 0.5em;
+	width: 100%;
+	color: #526062;
+	padding-top: 1em;
+	padding-bottom: 15em;
+}
+
+.bodyleft4{
+	font-family: Libertinus Sans;
+	font-size: 1em;
+	padding-left: 0.5em;
+	width: 100%;
+	color: #526062;
+	padding-top: 1em;
+	border-bottom: 1pt solid black; 
+	padding-bottom: 2em;
+}
+
+.bodyleft5{
+	font-family: Libertinus Sans;
+	font-size: 1em;
+	padding-left: 0.5em;
+	width: 100%;
+	padding-top: 1em;
+	padding-bottom: 1em; 
+	font-weight: bold;
+}
+
+.bodyleft6{
+	font-family: Libertinus Sans;
+	font-size: 1em;
+	padding-left: 0.5em;
+	width: 100%;
+	color: #526062;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.bodyleft7{
+	font-family: Libertinus Sans;
+	font-size: 1em;
+	padding-left: 0.5em;
+	width: 100%;
+	padding-top: 1em;
+	padding-bottom: 1.5em;
+	padding-bottom: 1em; 
+	font-weight: bold;
+}
+
+.bodyright{
+	font-size: 1.5em;
+	padding-top: 1em;
+	padding-bottom: 0.5em;
+	margin-right: 1em;	
+	font-family: Baskerville BT; 
+	padding-top: 1.5em; 
+	margin-left: 0.7em;
+}
+
+.bodyright2{
+	font-size: 1em;
+	padding-top: 1em;
+	padding-bottom: 0.5em;
+	margin-right: 1em;
+	color: #526062;
+	font-family: Libertinus Sans;
+}
+
+.bodyright3{
+	font-size: 1.5em;
+	padding-top: 1em;
+	margin-right: 1em;
+	font-family: Baskerville BT; 
+	font-style: italic; 
+	padding-top: 0.5em; 
+	margin-left: 0.7em; 
+	border-bottom: 1pt solid black; 
+	padding-bottom: 1em;
+
+}
+
+.bodyright4{
+	font-size: 1em;
+	padding-top: 1em;
+	padding-bottom: 0.5em;
+	margin-right: 1em;
+	color: #526062;
+	font-family: Libertinus Sans;
+}
+
+.bodyleftspecial{
+	font-size: 1.5em;
+	padding-top: 1.5em;
+	padding-bottom: 0.5em;
+	margin-right: 1em;
+	font-family: Baskerville BT; 
+	padding-top: 0em;
+}
+
+.bodyleftspecial2{
+	font-size: 1.25em;
+	padding-top: 1.5em;
+	padding-bottom: 0.5em;
+	margin-right: 1em;
+	margin-left: 1.25em;
+}
+
+.bodyleftspecial3{
+	font-size: 1.25em;
+	padding-top: 1.5em;
+	padding-bottom: 0.5em;
+	margin-right: 1em;
+	margin-left: 1.25em;
+	font-family: Baskerville BT; 
+	padding-top: 0em; 
+	font-style: italic;
+}
+
+.hyphenationtextleft{
+	float: left; 
+	width: 45%; 
+	padding-bottom: 2em;
+}
+
+.hyphenationtextright{
+	float: right; 
+	width: 47%; 
+	border-left: 1pt solid black; 
+	padding-left: 2em; 
+	padding-bottom: 15em;
+}
+
+.pagemargintextright{
+	float: right; 
+	width: 47%; 
+	border-left: 1pt solid black; 
+	padding-left: 2em;
+}
+
+.line{
+	width: 88.5vw; 
+	height: 2pt; 
+	background: black; 
+	margin-left: auto; 
+	margin-right: auto;
+}
+
+table {
+	width: 95%;
+	border-collapse: collapse;
+	text-align: center;
+	margin-top: 5em;
+}
+thead tr th {
+	border: 1pt solid black;
+	padding: 1em;
+}
+tbody tr td {
+	border: 1pt solid black;
+	padding: 1em;
+}
+
+
+
+@media (max-width: 340px) {
+
+* {
+	margin-right: 0.5em;
+	margin-left: 0.5em;
+}
+.line{
+	width: 115vw; 
+	height: 2pt; 
+	background: black; 
+	margin-left: auto; 
+	margin-right: auto;
+}
+
+.title{
+	font-family: Baskerville BT;
+	font-weight: bold;
+	font-size: 3.052em;
+	text-align: center;
+	width: 105vw;
+}
+
+.subtitle{
+	font-family: Baskerville BT;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 1.25em;
+	text-align: center;
+	padding-bottom: 0.5em;
+	width: 115vw;
+}
+
+.halfdeck{
+	font-family: Libertinus Sans;
+	font-weight: bold;
+	font-size: 1em; 
+	border-right: none;
+	padding-top: 1.5em;
+	padding-bottom: 0.5em;
+	margin-bottom: 1em;
+	text-align: center;
+	float: none; 
+	width: 105vw;
+}
+
+.half{
+	font-family: Baskerville BT;
+	font-style: italic;
+	font-size: 1em;
+	padding-top: 0.2em;
+	padding-bottom: 2em;
+	color: #555555;
+	float: none; 
+	width: 90vw;
+	text-align: center;
+	margin-left: 2.5em;
+}
+
+.halfheadline{
+	font-family: Baskerville BT;
+	font-weight: bold;
+	font-size: 1.563em;
+	padding-top: 1em;
+	float: none; 
+	width: 100vw;
+}
+.bodyleft{
+	font-family: Libertinus Sans;
+	font-size: 1em;
+	width: 100vw;
+	color: #526062;
+	padding-top: 1em;
+	float: none; 
+}
+
+.bodyleft2{
+	font-family: Libertinus Sans;
+	font-size: 1em;
+	width: 100vw;
+	padding-top: 1em;
+	padding-bottom: 1.5em;
+	border-bottom: 1pt solid black; 
+	color: #526062;
+	float: none;
+
+}
+.bodyleftspecial{
+	font-size: 1em;
+	padding-top: 1.5em;
+	padding-bottom: 0.5em;
+	margin-right: 1em;
+	font-family: Baskerville BT; 
+	padding-top: 0em;
+	width: 100vw;
+	padding-left: 0.5em;
+}
+.bodyleft3{
+	font-family: Libertinus Sans;
+	font-size: 1em;
+	width: 100vw;
+	color: #526062;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.pagemargintextright{
+	float: top;
+	width: 100vw;
+	border-left: none; 
+	padding-left: 2em;
+}
+.bodyright{
+	font-size: 1em;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	margin-right: 1em;	
+	font-family: Baskerville BT; 
+	margin-left: 0.7em;
+	width: 100vw;
+}
+
+.bodyright2{
+	font-size: 1em;
+	padding-bottom: 1.5em;
+	margin-right: 1em;
+	color: #526062;
+	font-family: Libertinus Sans;
+	width: 100vw;
+}
+
+.bodyright3{
+	font-size: 1em;
+	padding-top: 1em;
+	margin-right: 1em;
+	font-family: Baskerville BT; 
+	padding-top: 0.5em; 
+	margin-left: 0.7em; 
+	border-bottom: 1pt solid black; 
+	padding-bottom: 1em;
+	width: 100vw;
+
+}
+.half2{
+	font-family: Baskerville BT;
+	font-style: italic;
+	font-size: 1.25em;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+	color: #555555;
+	width: 100vw;
+}
+
+.half3{
+	font-family: Baskerville BT;
+	font-style: italic;
+	font-size: 1em;
+	padding-top: 0.5em;
+	padding-bottom: 2em;
+	color: #555555;
+	float: none; 
+	width: 100vw;
+	text-align: center;
+	margin-left: 1.5em;
+}
+.bodyleft4{
+	font-family: Libertinus Sans;
+	font-size: 1em;
+	padding-left: 0.5em;
+	width: 100vw;
+	color: #526062;
+	padding-top: 1em;
+	border-bottom: 1pt solid black; 
+	padding-bottom: 2em;
+}
+
+.bodyleft5{
+	font-family: Libertinus Sans;
+	font-size: 1em;
+	padding-left: 0.5em;
+	width: 100vw;
+	padding-top: 1em;
+	padding-bottom: 1em; 
+	font-weight: bold;
+}
+
+.bodyleft6{
+	font-family: Libertinus Sans;
+	font-size: 1em;
+	padding-left: 0.5em;
+	width: 100vw;
+	color: #526062;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.bodyleft7{
+	font-family: Libertinus Sans;
+	font-size: 1em;
+	padding-left: 0.5em;
+	width: 100vw;
+	padding-top: 1em;
+	padding-bottom: 1.5em;
+	padding-bottom: 1em; 
+	font-weight: bold;
+}
+.hyphenationtextleft{
+	float: none; 
+	width: 100vw; 
+	padding-bottom: 2em;
+}
+
+.hyphenationtextright{
+	float: none; 
+	width: 10vw; 
+	border-left: none;  
+	padding-bottom: 5em;
+	margin-right: 100vw;
+	margin-left: auto;
+}
+.bodyleftspecial3{
+	font-size: 1.25em;
+	padding-top: 1.5em;
+	padding-bottom: 0.5em;
+	margin-right: 1em;
+	margin-left: 1.25em;
+	font-family: Baskerville BT; 
+	padding-top: 0em; 
+	font-style: italic;
+	width: 100vw;
+}
+.pagemargintextright{
+	float: top;
+	width: 85%; 
+	border-left: none; 
+	padding-left: 2em;
+}
+.half4{
+	font-family: Baskerville BT;
+	font-style: italic;
+	font-size: 1.25em;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+	color: #555555;
+	border-bottom: 1pt solid black;
+	border-top: 1pt solid black;
+	width: 100vw;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  margin-left: 5.25em;
+  margin-right: auto;
+  padding: 0.5em;
+  font-size: 0.8em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+.title2{
+	font-family: Baskerville BT;
+	font-weight: bold;
+	font-size: 3.052em;
+	text-align: center;
+	width: 105vw;
+}
+
+}
